@@ -1,4 +1,10 @@
-### Hi there 👋
+<div align="center">
+  <h2>
+    Hi there 👋<br>
+    I'm Laurent Savarit<br>
+    Back-end developer
+  </h2>
+ </div>
 
 <!--
 **laurentSavarit/laurentSavarit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
